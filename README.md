@@ -1,0 +1,2 @@
+# AfuntionMakePng2Gif
+一个简单的python脚本，包含一个函数把png序列转换为gif
